@@ -1,1 +1,3 @@
-AndroidTheme \n The theme library for Android apps
+AndroidTheme
+
+The theme library for Android apps
